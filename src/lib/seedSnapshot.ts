@@ -5,7 +5,7 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
     id: 1,
     store_name_fa: 'بارگلو خوزستان | فروشگاه تخصصی عطر و ادکلن بارگلو',
     announcement_text_fa:
-      '🎁 جشنواره ویژه ۱+۱ بارگلو: با خرید هر ادکلن کددار، ادکلن دوم را با ۱۰۰٪ تخفیف هدیه بگیرید!',
+      '🎁 جشنواره ویژه ۱+۱ بارگلو: با خرید هر ادکلن، ادکلن دوم را با ۱۰۰٪ تخفیف هدیه بگیرید!',
     bogo_enabled: true,
     free_shipping_threshold_toman: 1800000,
     shipping_cost_toman: 85000,
@@ -21,10 +21,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
     {
       id: '55277e74-4b6c-4789-896a-439ca652264e',
       slug: 'coded-perfumes',
-      name_fa: 'ادکلن‌های کددار (۱+۱)',
-      name_en: 'Coded Perfumes (1+1)',
+      name_fa: 'ادکلن',
+      name_en: 'Eau de Parfum',
       description_fa:
-        'ادکلن‌های ۵۰ میل کددار ادوپرفیوم بارگلو با ماندگاری بالا — مشمول جشنواره ۱ بخر ۲ ببر (دومی ۱۰۰٪ رایگان)',
+        'ادکلن‌های ۵۰ میل ادوپرفیوم بارگلو با ماندگاری بالا — مشمول جشنواره ۱ بخر ۲ ببر (دومی ۱۰۰٪ رایگان)',
       sort_order: 1,
       is_active: true,
     },

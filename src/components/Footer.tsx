@@ -38,10 +38,10 @@ export const Footer: React.FC = () => {
             <Sparkles size={28} color="#e2c280" />
             <div>
               <strong style={{ display: 'block', color: '#fff', fontSize: '0.9rem' }}>
-                طرح همیشگی ۱+۱ عطرهای کددار
+                طرح همیشگی ۱+۱ ادکلن
               </strong>
               <span style={{ fontSize: '0.78rem', color: '#a8a29e' }}>
-                با خرید هر عطر ۵۰ میل کددار، عطر دوم ۱۰۰٪ رایگان محاسبه می‌شود
+                با خرید هر ادکلن ۵۰ میل، ادکلن دوم ۱۰۰٪ رایگان محاسبه می‌شود
               </span>
             </div>
           </div>
@@ -139,8 +139,8 @@ export const Footer: React.FC = () => {
               }}
             >
               <li>
-                <Link href="/collections/all?bogo=1">
-                  ادکلن‌های کددار ۵۰ میل (طرح ۱+۱)
+                <Link href="/collections/all?category=coded-perfumes">
+                  ادکلن
                 </Link>
               </li>
               <li>

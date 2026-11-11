@@ -762,7 +762,7 @@ export default function AdminDashboardPage() {
                     }
                     className="select-field"
                   >
-                    <option value="coded">کلاسیک ۵۰ میل کددار</option>
+                    <option value="coded">ادکلن کلاسیک ۵۰ میل</option>
                     <option value="niche">نیش اکستریت ۱۰۰ میل</option>
                     <option value="mystiq">سری Mystiq / Harmony</option>
                     <option value="body_mist">بادی اسپلش ۲۱۰ میل</option>
@@ -1033,7 +1033,7 @@ export default function AdminDashboardPage() {
                 }
               />
               <span>
-                فعال‌سازی سراسری کمپین ۱+۱ عطرهای کددار در سایت و سبد خرید
+                فعال‌سازی سراسری کمپین ۱+۱ ادکلن در سایت و سبد خرید
               </span>
             </label>
           </div>

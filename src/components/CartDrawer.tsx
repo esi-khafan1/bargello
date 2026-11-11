@@ -166,7 +166,7 @@ export const CartDrawer: React.FC = () => {
                         marginBottom: 10,
                       }}
                     >
-                      شما تعداد فرد از عطرهای کددار انتخاب کرده‌اید. عطر کددار
+                      شما تعداد فرد از ادکلن‌های جشنواره انتخاب کرده‌اید. ادکلن
                       بعدی را با <strong>۱۰۰٪ تخفیف (رایگان)</strong> همینجا
                       اضافه کنید:
                     </p>
@@ -219,7 +219,7 @@ export const CartDrawer: React.FC = () => {
                   }}
                 >
                   ✓ کمپین ۱+۱ فعال شد:{' '}
-                  {toPersianDigits(cart.totalFreeUnits)} عدد عطر کددار با تخفیف{' '}
+                  {toPersianDigits(cart.totalFreeUnits)} عدد ادکلن با تخفیف{' '}
                   {formatToman(cart.bogoDiscountToman)} رایگان محاسبه شد!
                 </div>
               )}

@@ -148,10 +148,18 @@ export const Header: React.FC = () => {
               </li>
               <li>
                 <Link
+                  href="/collections/all?category=coded-perfumes"
+                  className="header-nav-link"
+                >
+                  ادکلن
+                </Link>
+              </li>
+              <li>
+                <Link
                   href="/collections/all?bogo=1"
                   className="header-nav-link promo"
                 >
-                  پیشنهاد ویژه ۱+۱ کددار
+                  پیشنهاد ویژه ۱+۱
                 </Link>
               </li>
               <li>

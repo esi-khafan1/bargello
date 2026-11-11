@@ -131,7 +131,7 @@ export default function HomePage() {
               </h1>
 
               <p className="hero-lead">
-                کلکسیون کامل ادکلن‌های کددار ۵۰ میل ادوپرفیوم (EDP)، کالکشن
+                کلکسیون کامل ادکلن‌های ۵۰ میل ادوپرفیوم (EDP)، کالکشن
                 لاکچری نیش، بادی اسپلش و خوشبوکننده خودرو با ضمانت اصالت و
                 ارسال سریع به سراسر ایران.
               </p>
@@ -168,7 +168,7 @@ export default function HomePage() {
               <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
                 <Link href="/collections/all?bogo=1" className="btn-crimson">
                   <Gift size={17} />
-                  <span>خرید از کمپین ۱+۱ کددار</span>
+                  <span>خرید از کمپین ۱+۱ ادکلن</span>
                 </Link>
                 <Link
                   href="/collections/all?category=niche"
@@ -340,7 +340,7 @@ export default function HomePage() {
                     marginTop: 4,
                   }}
                 >
-                  هر دو کد را از بین ادکلن‌های کددار ۵۰ میل انتخاب کنید؛ سیستم به
+                  هر دو مورد را از بین ادکلن‌های ۵۰ میل انتخاب کنید؛ سیستم به
                   صورت خودکار یکی را ۱۰۰٪ رایگان محاسبه می‌کند.
                 </p>
               </div>

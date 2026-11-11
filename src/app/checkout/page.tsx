@@ -695,7 +695,7 @@ export default function CheckoutPage() {
                       <span>عطر دوم رایگان خود را جا نگذارید!</span>
                     </div>
                     <p style={{ fontSize: '0.78rem', marginBottom: 8 }}>
-                      شما می‌توانید یک عطر کددار دیگر بدون افزایش قیمت به سفارش
+                      شما می‌توانید یک ادکلن دیگر بدون افزایش قیمت به سفارش
                       اضافه کنید:
                     </p>
                     <div style={{ display: 'flex', gap: 6 }}>
