@@ -5,6 +5,23 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
+  async headers() {
+    return [
+      {
+        source: '/zarinpal-guide-bargello.pdf',
+        headers: [
+          {
+            key: 'Content-Type',
+            value: 'application/pdf',
+          },
+          {
+            key: 'Content-Disposition',
+            value: 'attachment; filename="zarinpal-guide-bargello.pdf"',
+          },
+        ],
+      },
+    ];
+  },
 };
 
 export default nextConfig;
