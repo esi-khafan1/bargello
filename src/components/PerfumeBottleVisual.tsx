@@ -1,6 +1,6 @@
 'use client';
 
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import type { Product } from '@/lib/types';
 
 interface PerfumeBottleVisualProps {
@@ -14,7 +14,9 @@ interface PerfumeBottleVisualProps {
     | 'bottle_tint'
     | 'image_url'
     | 'name_fa'
-  >;
+  > & {
+    secondary_image_url?: string | null;
+  };
   size?: 'sm' | 'md' | 'lg';
 }
 
@@ -22,18 +24,62 @@ export const PerfumeBottleVisual: React.FC<PerfumeBottleVisualProps> = ({
   product,
   size = 'md',
 }) => {
-  if (product.image_url) {
+  const [fallbackIndex, setFallbackIndex] = useState(0);
+
+  useEffect(() => {
+    setFallbackIndex(0);
+  }, [product.image_url, product.secondary_image_url]);
+
+  const candidates = [product.image_url, product.secondary_image_url].filter(
+    (u): u is string => Boolean(u)
+  );
+  const activeSrc = candidates[fallbackIndex] ?? null;
+
+  if (activeSrc) {
+    const imgStyle: React.CSSProperties =
+      size === 'sm'
+        ? {
+            width: 72,
+            height: 78,
+            maxWidth: '100%',
+            objectFit: 'contain',
+            padding: 4,
+            display: 'block',
+            margin: '0 auto',
+            mixBlendMode: 'multiply',
+          }
+        : size === 'lg'
+          ? {
+              width: '100%',
+              maxHeight: 370,
+              height: 'auto',
+              objectFit: 'contain',
+              padding: 12,
+              display: 'block',
+              margin: '0 auto',
+              mixBlendMode: 'multiply',
+            }
+          : {
+              width: '100%',
+              maxHeight: 235,
+              height: '100%',
+              objectFit: 'contain',
+              padding: 14,
+              display: 'block',
+              margin: '0 auto',
+              mixBlendMode: 'multiply',
+            };
+
     return (
       // eslint-disable-next-line @next/next/no-img-element
       <img
-        src={product.image_url}
+        src={activeSrc}
         alt={product.name_fa}
-        style={{
-          width: '100%',
-          height: '100%',
-          objectFit: 'contain',
-          padding: size === 'sm' ? 6 : 16,
-        }}
+        loading={size === 'lg' ? 'eager' : 'lazy'}
+        decoding="async"
+        className="product-bottle-photo"
+        onError={() => setFallbackIndex((i) => i + 1)}
+        style={imgStyle}
       />
     );
   }

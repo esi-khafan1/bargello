@@ -486,6 +486,14 @@ button {
   border-bottom: 1px solid var(--border-light);
 }
 
+.product-bottle-photo {
+  transition: transform 0.32s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.product-card:hover .product-bottle-photo {
+  transform: scale(1.045);
+}
+
 .product-card-badges {
   position: absolute;
   top: 10px;

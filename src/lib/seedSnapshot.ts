@@ -176,8 +176,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'کد ۵۶۱ بارگلو پرفروش‌ترین ادکلن مردانه خنک و چهارفصل با شروعی طوفانی از ترنج تازه و فلفل و خط بوی جادویی آمبروکسان است که پخش بو و ماندگاری فوق‌العاده‌ای دارد.',
       bottle_tint: '#D7E4EC',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-561-men-50ml-fresh.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794534976_9832805303.png',
       is_active: true,
     },
     {
@@ -212,8 +214,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'کد ۱۹۹ بارگلو یک شاهکار یونیسکس با رایحه لوکس زعفران، کهربا و چوب سدر است که خط بویی بی‌نظیر و اشرافی روی لباس و پوست به‌جا می‌گذارد.',
       bottle_tint: '#F3DEC3',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-199-unisex-50ml-oriental.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794534979_3965015959.png',
       is_active: true,
     },
     {
@@ -248,8 +252,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'کد ۱۲۲ بارگلو ترکیبی اغواگر، گرم و مجلسی از قهوه و بادام در کنار گل‌های سفید و دانه تونکاست؛ انتخاب اول بانوان برای مجالس و فصول خنک سال.',
       bottle_tint: '#F0DCE2',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-122-women-50ml-oriental.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794534980_8728164062.png',
       is_active: true,
     },
     {
@@ -284,8 +290,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'کد ۶۸۵ بارگلو با تضاد درخشان آناناس آبدار و چوب دودی توس، نماد وقار، اعتمادبه‌نفس و جذابیت مردانه در تمام فصول سال است.',
       bottle_tint: '#E3E6DC',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-685-men-50ml-woody.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794534982_9451585293.png',
       is_active: true,
     },
     {
@@ -327,8 +335,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'کد ۵۵۴ بارگلو انفجاری از میوه‌های استوایی شیرین و مشک مخملی با خط بویی بسیار قوی و ماندگاری خیره‌کننده برای آقایان و بانوان است.',
       bottle_tint: '#F4E2C6',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-554-unisex-50ml-oriental.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794534984_9809615257.png',
       is_active: true,
     },
     {
@@ -369,8 +379,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'کد ۳۲۰ بارگلو عطری اصیل، باکلاس و چهارفصل با ترکیب درخشان مرکبات، رز ترک و نعناع هندی است که هیچ‌گاه از مد نمی‌افتد.',
       bottle_tint: '#F5DFDF',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-320-women-50ml-oriental.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794534986_4197990397.png',
       is_active: true,
     },
     {
@@ -411,8 +423,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'کد ۱۱۶ بارگلو یکی از محبوب‌ترین عطرهای خنک و میوه‌ای-گلی زنانه با حس طراوت و شادابی فوق‌العاده برای روزهای گرم سال است.',
       bottle_tint: '#FADCE6',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-116-women-50ml-floral.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794534988_9240458470.png',
       is_active: true,
     },
     {
@@ -447,8 +461,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'کد ۳۸۴ بارگلو تلفیقی مدرن و شیک از شکوفه پرتقال و اسطوخودوس بر بستری از وانیل گرم است که امضای بویایی شیک و امروزی می‌سازد.',
       bottle_tint: '#F5E5CE',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-384-women-50ml-floral.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794534990_2186082985.png',
       is_active: true,
     },
     {
@@ -483,8 +499,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'کد ۲۲۶ بارگلو رایحه‌ای گرم، پرانرژی و وانیلی-قهوه‌ای دارد که در شب‌های پاییز و زمستان درخشش فوق‌العاده‌ای ایجاد می‌کند.',
       bottle_tint: '#EAD6DC',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-226-women-50ml-oriental.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794535154_5860057578.png',
       is_active: true,
     },
     {
@@ -519,8 +537,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'کد ۷۰۹ بارگلو عطری مردانه، کاریزماتیک و گرم با نت‌های دارچین، هل و وانیل دودی است که بازخوردهای تحسین‌برانگیزی به همراه دارد.',
       bottle_tint: '#ECD9C2',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-709-men-50ml-oriental.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794535156_7316155893.png',
       is_active: true,
     },
     {
@@ -555,8 +575,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'کد ۷۵۱ بارگلو تلفیق پرانرژی نعناع خنک و سیب سبز با پایه گرم وانیل و سدر است که پخش بوی خیره‌کننده‌ای ایجاد می‌کند.',
       bottle_tint: '#D5E7E6',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-751-men-50ml-woody.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794535158_5978271141.png',
       is_active: true,
     },
     {
@@ -591,8 +613,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'کد ۱۰۶ بارگلو رایحه‌ای لطیف، بهاری و شاداب از گریپ‌فروت، به و گل یاس است؛ ایده‌آل برای مصرف روزانه، محیط کار و روزهای گرم خوزستان و جنوب.',
       bottle_tint: '#F7E4EA',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-106-women-50ml-floral.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794535160_8398024691.png',
       is_active: true,
     },
     {
@@ -634,8 +658,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'ادکلن بارگلو ۵۰۲ عطری پویا و ماندگار با شروعی پرانرژی از مریم‌گلی، یوزو و ترنج، قلبی از جوز هندی و زنبق، و پایه‌ای عمیق از چوب صندل و خزه بلوط است.',
       bottle_tint: '#E8DFCA',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-502-men-50ml-woody.jpg',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794535161_711059780.jpg',
       is_active: true,
     },
     {
@@ -670,8 +696,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'کد ۵۹۱ بارگلو جدیدترین عضو خانواده چوبی مردانه با رایحه اشرافی عود، هل و چوب صندل؛ رسمی، سنگین و متمایز.',
       bottle_tint: '#DDD2C4',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-591-men-50ml-woody.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794535183_6115720819.png',
       is_active: true,
     },
     {
@@ -706,8 +734,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         "Soleil D'Or از کالکشن لوکس Niche Infinity بارگلو با غلظت Extrait de Parfum، عطری طلایی، عمیق و کلکسیونی با ماندگاری بیش از ۲۴ ساعت است.",
       bottle_tint: '#C9A45C',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-niche-infinity-soleil-dor-100ml.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794535185_5854503538.png',
       is_active: true,
     },
     {
@@ -742,8 +772,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'Black Mirage شاهکاری مرموز و تلخ از سری نیش بارگلو با محوریت چرم، بخور و چوب گایاک برای سلیقه‌های خاص‌پسند است.',
       bottle_tint: '#232122',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-niche-infinity-black-mirage-100ml.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794535186_9644441327.png',
       is_active: true,
     },
     {
@@ -778,8 +810,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'White Contrast از کالکشن Niche Elegance رایحه‌ای تمیز، اشرافی و ابریشمی با بطری کلکسیونی سفید و طلایی است.',
       bottle_tint: '#F5F2EB',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-niche-elegance-white-contrast-60ml.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794535188_3244451804.png',
       is_active: true,
     },
     {
@@ -814,8 +848,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'Paradise Aurum عطری خنک، لوکس و درخشان با غلظت اکستریت است که حتی در گرم‌ترین روزهای تابستان ماندگاری کم‌نظیری دارد.',
       bottle_tint: '#E8D59E',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-niche-paradise-aurum-75ml.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794535190_6258125251.png',
       is_active: true,
     },
     {
@@ -850,8 +886,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'Midnight Flora از سری Mystiq با حجم ۱۰۰ میل و طراحی مدرن، رایحه‌ای مسحورکننده از گل‌های شبانه و وانیل مخملی ارائه می‌دهد.',
       bottle_tint: '#49324A',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-mystiq-midnight-flora-100ml.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794535217_9938803236.png',
       is_active: true,
     },
     {
@@ -886,8 +924,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'Vanilla Excellence انتخاب بی‌رقیب عاشقان رایحه‌های وانیلی عمیق، خامه‌ای و اشرافی از کالکشن ویژه بارگلو است.',
       bottle_tint: '#E5C391',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-vanilla-excellence-50ml.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794535219_7370551554.png',
       is_active: true,
     },
     {
@@ -922,8 +962,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'بادی اسپلش شاین‌دار Glamorous بارگلو علاوه بر خوشبو کردن و طراوت پوست بعد از استحمام، درخششی ظریف و ابریشمی روی پوست ایجاد می‌کند.',
       bottle_tint: '#F5C9D6',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-body-mist-glamorous-210ml.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794535220_8406829153.png',
       is_active: true,
     },
     {
@@ -958,8 +1000,10 @@ export const INITIAL_CATALOG_SNAPSHOT: CatalogSnapshot = {
       description_fa:
         'خوشبوکننده آویز خودرو بارگلو با درب چوبی طبیعی، پخش بوی یکنواخت و طولانی‌مدت تا ۶ هفته را در فضای خودرو تضمین می‌کند.',
       bottle_tint: '#F49B8E',
-      image_url: null,
-      secondary_image_url: null,
+      image_url:
+        'https://ceghlnyuziagatwqmfma.supabase.co/storage/v1/object/public/product-images/bargello-car-fragrance-watermelon-mango-8ml.png',
+      secondary_image_url:
+        'https://9337710035.mixin.website/shop-resources/FkqJJGLCAq/product-images/1794535222_1126253459.png',
       is_active: true,
     },
   ],
